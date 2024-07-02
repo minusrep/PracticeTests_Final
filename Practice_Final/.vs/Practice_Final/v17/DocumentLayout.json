@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Practice_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_finaltests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|solutionrelative:practice_finaltests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_final\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|solutionrelative:practice_final\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_final\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|solutionrelative:practice_final\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_finaltests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|solutionrelative:practice_finaltests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_finaltests\\stringcheckerispalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|solutionrelative:practice_finaltests\\stringcheckerispalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_final\\stringchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|solutionrelative:practice_final\\stringchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_finaltests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|solutionrelative:practice_finaltests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_finaltests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|solutionrelative:practice_finaltests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_finaltests\\arraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AACFBC-B331-4396-AFE8-17886DD3B099}|Practice_FinalTests\\Practice_FinalTests.csproj|solutionrelative:practice_finaltests\\arraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_final\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|solutionrelative:practice_final\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_final\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|solutionrelative:practice_final\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_final\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|solutionrelative:practice_final\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|c:\\users\\user\\source\\repos\\practice_final\\practice_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5627C6C-B5C1-4B83-9EE6-9A7990A03BB8}|Practice_Final\\Practice_Final.csproj|solutionrelative:practice_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "Practice_FinalTests\\LibraryTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\LibraryTests.cs",
+              "RelativeToolTip": "Practice_FinalTests\\LibraryTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwC4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:38:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Library.cs",
+              "RelativeDocumentMoniker": "Practice_Final\\Library.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Library.cs",
+              "RelativeToolTip": "Practice_Final\\Library.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:37:04.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "Practice_FinalTests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\BankAccountTests.cs",
+              "RelativeToolTip": "Practice_FinalTests\\BankAccountTests.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:31:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Practice_Final\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\BankAccount.cs",
+              "RelativeToolTip": "Practice_Final\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:15:41.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringCheckerIsPalindrome.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\StringCheckerIsPalindrome.cs",
+              "RelativeDocumentMoniker": "Practice_FinalTests\\StringCheckerIsPalindrome.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\StringCheckerIsPalindrome.cs",
+              "RelativeToolTip": "Practice_FinalTests\\StringCheckerIsPalindrome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:12:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringChecker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\StringChecker.cs",
+              "RelativeDocumentMoniker": "Practice_Final\\StringChecker.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\StringChecker.cs",
+              "RelativeToolTip": "Practice_Final\\StringChecker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:11:12.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\UserTests.cs",
+              "RelativeDocumentMoniker": "Practice_FinalTests\\UserTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\UserTests.cs",
+              "RelativeToolTip": "Practice_FinalTests\\UserTests.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwF4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:00:11.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\User.cs",
+              "RelativeDocumentMoniker": "Practice_Final\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\User.cs",
+              "RelativeToolTip": "Practice_Final\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:56:43.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArrayTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\ArrayTests.cs",
+              "RelativeDocumentMoniker": "Practice_FinalTests\\ArrayTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\ArrayTests.cs",
+              "RelativeToolTip": "Practice_FinalTests\\ArrayTests.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAzwG8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:41:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Array.cs",
+              "RelativeDocumentMoniker": "Practice_Final\\Array.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Array.cs",
+              "RelativeToolTip": "Practice_Final\\Array.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:33:49.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "Practice_FinalTests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_FinalTests\\CalculatorTests.cs",
+              "RelativeToolTip": "Practice_FinalTests\\CalculatorTests.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAzwIoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:01:22.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Calculator.cs",
+              "RelativeDocumentMoniker": "Practice_Final\\Calculator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Calculator.cs",
+              "RelativeToolTip": "Practice_Final\\Calculator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:59:23.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_Final\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Practice_Final\\Practice_Final\\Program.cs",
+              "RelativeToolTip": "Practice_Final\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:58:36.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

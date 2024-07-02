@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Practice_Final\Practice_Final\bin\Debug\net8.0\Practice_Final.exe
+C:\Users\User\source\repos\Practice_Final\Practice_Final\bin\Debug\net8.0\Practice_Final.deps.json
+C:\Users\User\source\repos\Practice_Final\Practice_Final\bin\Debug\net8.0\Practice_Final.runtimeconfig.json
+C:\Users\User\source\repos\Practice_Final\Practice_Final\bin\Debug\net8.0\Practice_Final.dll
+C:\Users\User\source\repos\Practice_Final\Practice_Final\bin\Debug\net8.0\Practice_Final.pdb
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\Practice_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\Practice_Final.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\Practice_Final.AssemblyInfo.cs
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\Practice_Final.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\Practice_Final.dll
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\refint\Practice_Final.dll
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\Practice_Final.pdb
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\Practice_Final.genruntimeconfig.cache
+C:\Users\User\source\repos\Practice_Final\Practice_Final\obj\Debug\net8.0\ref\Practice_Final.dll
